@@ -1,10 +1,10 @@
 ---
 title: JMeter的基本使用与性能测试，完整入门篇保姆式教程
 published: 2025-07-24
-description: ''
-image: ''
-tags: [Demo]
-category: ''
+description: 'JMeter压力测试基本使用'
+image: 'https://img.quenjoy.com/blog/1753695971952-4ed84a78-d867-40b6-bb0d-599c5665c425.png'
+tags: [JMeter]
+category: 'BackEnd'
 draft: false 
 lang: ''
 ---
