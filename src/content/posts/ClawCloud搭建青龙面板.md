@@ -12,6 +12,8 @@ lang: ''
 
 ![控制面板](https://img.quenjoy.com/blog/1753866138991-63b3cedb-847c-46e0-9e88-36c97f703367.png)
 
+[docker hub](https://hub.docker.com/) 查询相关应用的image名称
+
 ![配置内存和CPU](https://img.quenjoy.com/blog/1753866100313-5c001583-31e4-492f-af09-3403c2a9b425.png)
 
 ![配置端口和存储](https://img.quenjoy.com/blog/1753866219839-f9058524-ab04-4b56-a0b0-6b6df6c80391.png)
