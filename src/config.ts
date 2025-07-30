@@ -53,7 +53,7 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "https://img.quenjoy.com/blog/1753695035041-b435e89a-6002-450c-a0b6-c98f1c12e703.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+	avatar: "https://img.quenjoy.com/blog/1753868139242-455e16f2-d3d5-41a1-9837-7ff835edab71.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "",
 	bio: "",
 	links: [
