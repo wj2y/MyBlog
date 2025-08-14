@@ -199,7 +199,7 @@ feign:
         contract: feign.Contract.Default   #指定Feign原生注解契约配置
 ```
 
-### 3.3自定义拦截器实现认证逻辑(只有请求拦截， 没有响应拦截，有点扯， 响应拦截需要对源码进行重构）
+### 3.3 自定义拦截器实现认证逻辑(只有请求拦截， 没有响应拦截，有点扯， 响应拦截需要对源码进行重构）
 
 ```javascript
 public class FeignAuthRequestInterceptor implements RequestInterceptor {
